@@ -1,0 +1,15 @@
+PROPRIETARY RESEARCH LICENSE (PRE-RELEASE)
+
+Copyright (c) 2025 Azareel Mukovhe Khomola
+
+1. GRANT OF LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software (the "Software"), to view, study, and evaluate the Software for non-commercial, academic, or research purposes only.
+
+2. RESTRICTIONS
+You may NOT:
+(a) Use the Software for any commercial purpose.
+(b) Modify, merge, publish, distribute, sublicense, or sell copies of the Software.
+(c) Implement the underlying "Posterior Feature Correction" or "DeFT-Mamba" architecture in production systems without express written consent.
+
+3. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
